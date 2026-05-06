@@ -6,10 +6,13 @@ Este documento serve como guia para o planeamento e execução do projeto de Des
 ---
 
 ## 1. Visão Geral do Projeto
-* **Nome do Sistema:** [Insira o nome do projeto]
-* **Equipa:** [Nomes dos Alunos e respetivos papéis]
-* **O Problema (A Dor):** Descreva de forma clara o problema que o sistema resolve. Por que é que este software precisa de existir?
-* **Público-Alvo:** Quem são os utilizadores finais? (Ex: Estudantes do IFSP, donos de pequenos negócios, utilizadores de ginásios).
+* **Nome do Sistema:** [Salva Pet]
+* **Equipa:** [Ralff,Yasmim Colares,Ana Andrade,Larissa e Lavinia]
+* **O Problema (A Dor):** O abandono de animais é alto, enquanto muitos interessados em adotar não encontram fontes confiáveis.
+O processo atual de adoção e doação é desorganizado e pouco transparente.
+ONGs e protetores têm dificuldade para divulgar pets e encontrar bons adotantes.
+Assim, é necessário um sistema que conecte pessoas de forma segura e facilite adoções responsáveis.
+* **Público-Alvo:** Pessoas de todas as idades).
 
 ## 2. Proposta de Valor
 * **Solução Central:** Em apenas uma frase, o que o sistema faz?
