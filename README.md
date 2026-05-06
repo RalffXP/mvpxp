@@ -26,7 +26,7 @@ Utilize a técnica **MoSCoW** para definir o que será entregue nesta primeira v
 | **Essencial (Must-have)** | • Ex: • Cadastro de usuários e login <br> • Cadastro de pets para adoção/doação <br> • Visualização de pets disponíveis <br> • Contato entre adotante e responsável | Sem essas funcionalidades, o sistema não cumpre seu objetivo principal. |
 | **Importante (Should-have)** |• Filtro de busca (espécie, idade, localização) <br> • Recuperação de senha <br> • Perfil do usuário| Melhora a experiência do usuário, mas não impede o funcionamento do sistema. |
 | **Desejável (Could-have)** |• Avaliação de usuários <br>• Upload de várias fotos <br>• Notificações por email | Funcionalidades extras que agregam valor, mas não são essenciais. |
-| **Fora do Âmbito (Won't-have)** | • Ex: Integração com IA ou Pagamentos. | Demasiado complexo para o prazo atual. |
+| **Fora do Âmbito (Won't-have)** | • Integração com pagamentos<br>• Inteligência artificial <br>• Aplicativo mobile | Muito complexas para o MVP e podem ser implementadas futuramente. |
 
 ## 4. Stack Tecnológica
 Definição das ferramentas que serão utilizadas pela equipa:
