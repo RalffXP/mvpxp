@@ -23,10 +23,7 @@ Utilize a técnica **MoSCoW** para definir o que será entregue nesta primeira v
 
 | Categoria | Funcionalidades (O que o sistema faz) | Justificação |
 | :--- | :--- | :--- |
-| **Essencial (Must-have)** | • Ex: • Cadastro de usuários e login
-• Cadastro de pets para adoção/doação
-• Visualização de pets disponíveis
-• Contato entre adotante e responsável | Sem essas funcionalidades, o sistema não cumpre seu objetivo principal. |
+| **Essencial (Must-have)** | • Ex: • Cadastro de usuários e login| • Cadastro de pets para adoção/doação| • Visualização de pets disponíveis| • Contato entre adotante e responsável | Sem essas funcionalidades, o sistema não cumpre seu objetivo principal. |
 | **Importante (Should-have)** | • Ex: Recuperação de password.<br>• Ex: Filtro de pesquisa. | Importante, mas o sistema funciona sem isto. |
 | **Desejável (Could-have)** | • Ex: Modo Noturno.<br>• Ex: Exportação para PDF. | "Perfumaria" para ser feita se sobrar tempo. |
 | **Fora do Âmbito (Won't-have)** | • Ex: Integração com IA ou Pagamentos. | Demasiado complexo para o prazo atual. |
