@@ -15,15 +15,18 @@ Assim, é necessário um sistema que conecte pessoas de forma segura e facilite 
 * **Público-Alvo:** Pessoas de todas as idades).
 
 ## 2. Proposta de Valor
-* **Solução Central:** Em apenas uma frase, o que o sistema faz?
-* **Diferencial do MVP:** Qual é a funcionalidade mínima que permite que o utilizador já consiga usar o sistema para resolver o problema?
+* **Solução Central:** Plataforma online que conecta pessoas interessadas em adotar ou doar pets a abrigos e protetores de forma simples, segura e organizada.
+* **Diferencial do MVP:** Um sistema básico onde usuários podem cadastrar pets para adoção e buscar animais disponíveis com informações essenciais e contato direto com o responsável.
 
 ## 3. Âmbito do MVP (Priorização)
 Utilize a técnica **MoSCoW** para definir o que será entregue nesta primeira versão.
 
 | Categoria | Funcionalidades (O que o sistema faz) | Justificação |
 | :--- | :--- | :--- |
-| **Essencial (Must-have)** | • Ex: Cadastro de usuários e login.<br>• Ex: CRUD de tarefas. | Sem isto o projeto não pode ser apresentado. |
+| **Essencial (Must-have)** | • Ex: • Cadastro de usuários e login
+• Cadastro de pets para adoção/doação
+• Visualização de pets disponíveis
+• Contato entre adotante e responsável | Sem essas funcionalidades, o sistema não cumpre seu objetivo principal. |
 | **Importante (Should-have)** | • Ex: Recuperação de password.<br>• Ex: Filtro de pesquisa. | Importante, mas o sistema funciona sem isto. |
 | **Desejável (Could-have)** | • Ex: Modo Noturno.<br>• Ex: Exportação para PDF. | "Perfumaria" para ser feita se sobrar tempo. |
 | **Fora do Âmbito (Won't-have)** | • Ex: Integração com IA ou Pagamentos. | Demasiado complexo para o prazo atual. |
