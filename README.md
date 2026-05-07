@@ -44,7 +44,7 @@ Não-Relacional: MongoDB (para armazenamento de imagens, logs ou chats, se neces
 * **Relacionamentos:** [ Usuário cadastra Animal. <br> ONG administra Animal. <br> Usuário realiza Adoção. <br> Animal possui Vacinação.]
 
 ## 6. Fluxo Principal (Caminho Feliz)
-O utilizador acede ao site Salva Pet e faz login ou registo. <br> O utilizador entra no dashboard principal. <br>O utilizador navega até à lista de animais disponíveis. <br> O utilizador seleciona um animal para ver detalhes. <br> O utilizador pode solicitar adoção ou cadastrar um novo animal. <br> O sistema confirma a ação e atualiza a lista no site.
+• O utilizador acede ao site Salva Pet e faz login ou registo. <br> • O utilizador entra no dashboard principal. <br>• O utilizador navega até à lista de animais disponíveis. <br> • O utilizador seleciona um animal para ver detalhes. <br> • O utilizador pode solicitar adoção ou cadastrar um novo animal. <br> • O sistema confirma a ação e atualiza a lista no site.
 
 ## 7. Critérios de Aceitação
 O MVP será considerado concluído se:
