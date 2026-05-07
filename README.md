@@ -44,11 +44,12 @@ Não-Relacional: MongoDB (para armazenamento de imagens, logs ou chats, se neces
 * **Relacionamentos:** [ Usuário cadastra Animal. <br> ONG administra Animal. <br> Usuário realiza Adoção. <br> Animal possui Vacinação.]
 
 ## 6. Fluxo Principal (Caminho Feliz)
-Descreva o passo a passo que será testado na demonstração:
-1. O utilizador abre o sistema e faz login.
-2. O utilizador acede ao menu "X" e clica em "Adicionar".
-3. O utilizador preenche os campos e guarda.
-4. O sistema confirma a gravação e lista o item no Dashboard.
+O utilizador acede ao site Salva Pet e faz login ou registo.
+O utilizador entra no dashboard principal.
+O utilizador navega até à lista de animais disponíveis.
+O utilizador seleciona um animal para ver detalhes.
+O utilizador pode solicitar adoção ou cadastrar um novo animal.
+O sistema confirma a ação e atualiza a lista no site.
 
 ## 7. Critérios de Aceitação
 O MVP será considerado concluído se:
