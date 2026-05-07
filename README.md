@@ -31,10 +31,10 @@ Utilize a técnica **MoSCoW** para definir o que será entregue nesta primeira v
 ## 4. Stack Tecnológica
 Definição das ferramentas que serão utilizadas pela equipa:
 
-* **Front-end / Mobile:** [Ex: Ionic com React, Kotlin Nativo, ou HTML/CSS]
-* **Back-end (API):** [Ex: Node.js, PHP, Java Spring Boot]
-* **Base de Dados:** * *Relacional:* [Ex: MySQL / PostgreSQL]
-    * *Não-Relacional:* [Ex: MongoDB] (se aplicável)
+* **Front-end / Mobile:** [React Native com Expo (aplicativo mobile multiplataforma) e HTML/CSS para painel web administrativo.]
+* **Back-end (API):** [Node.js.]
+* **Base de Dados:** *~[Relacional: PostgreSQL <br>
+Não-Relacional: MongoDB (para armazenamento de imagens, logs ou chats, se necessário).
 * **Controlo de Versão:** GitHub (Utilização de branches `main` e `develop`).
 
 ## 5. Modelação da Base de Dados
