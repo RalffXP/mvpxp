@@ -41,7 +41,7 @@ Não-Relacional: MongoDB (para armazenamento de imagens, logs ou chats, se neces
 *(Dica: Podem anexar aqui o link para o diagrama do BRModelo ou um print do Modelo Relacional)*
 
 * **Entidades Principais:** [Usuário <br> Animal <br> Adoção <br> ONG/Instituição <br> Localização <br> Denúncia <br> Vacinação <br> Histórico Médico ]
-* **Relacionamentos:** [ Um Usuário pode cadastrar vários Animais (1:N). <br> Um Animal pode possuir um Histórico Médico (1:1). <br> Uma ONG/Instituição pode administrar vários Animais (1:N). <br> Um Usuário pode realizar várias Adoções (1:N). <br> Um Animal pode estar associado a uma única Adoção (1:1). <br> Um Usuário pode registrar várias Denúncias (1:N). <br> Um Animal pode possuir vários registros de Vacinação (1:N).]
+* **Relacionamentos:** [ Usuário cadastra Animal. <br> ONG administra Animal. <br> Usuário realiza Adoção. <br> Animal possui Vacinação.]
 
 ## 6. Fluxo Principal (Caminho Feliz)
 Descreva o passo a passo que será testado na demonstração:
